@@ -1,5 +1,4 @@
 #summary A more in-depth introduction
-#labels Featured
 
 = Introduction =
 
